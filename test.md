@@ -1,6 +1,6 @@
 ## Welcome to Holly's Testing Website!
 
-This is where Holly will be testing eactly what she is doing.
+This is where Holly will be testing exactly what she is doing.
 
 YIPPEE!
 
